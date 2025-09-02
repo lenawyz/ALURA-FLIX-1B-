@@ -1,2 +1,2 @@
 # ALURA-FLIX-1B-
-SITE CRIADO NA AULA DE PC 
+site desenvolvido na aula de pensamento computacional 
